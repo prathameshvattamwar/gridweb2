@@ -7,10 +7,6 @@
 <a href="https://prathameshvattamwar.github.io/gridweb2">Click Here to open web</a>
 <br><br>
 <p style="margin-top:2vh;">Below are the output demo of this project</p>
-<br><br>
-
-[![Watch the video](https://i.imgur.com/GDspDeQ.png)](https://i.imgur.com/iJ3ODgF.mp4)
-
 
 <br>
 <h2>Desktop View</h2>
@@ -23,8 +19,10 @@
 <h2>Mobile View</h2>
 <img src="https://i.imgur.com/Tr8ADHN.png"/>
 <br><br>
+<h4>Click on below image for output video of this project</h4>
+<br><br>
 
-
+[![Watch the video](https://i.imgur.com/GDspDeQ.png)](https://i.imgur.com/iJ3ODgF.mp4)
 
 
 <h3>Follow me for more mini project ideas and free code access : <a href="https://github.com/prathameshvattamwar">Click here to follow</a></h3>
