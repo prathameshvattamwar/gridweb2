@@ -20,4 +20,10 @@
 <img src="https://i.imgur.com/Tr8ADHN.png"/>
 <br><br>
 
+<video autoplay muted>
+  <source src="https://i.imgur.com/iJ3ODgF.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 <h3>Follow me for more mini project ideas and free code access : <a href="https://github.com/prathameshvattamwar">Click here to follow</a></h3>
