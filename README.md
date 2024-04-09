@@ -9,10 +9,8 @@
 <p style="margin-top:2vh;">Below are the output demo of this project</p>
 <br><br>
 
-<video autoplay muted>
-  <source src="https://i.imgur.com/iJ3ODgF.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the video](https://i.imgur.com/GDspDeQ.png)](https://i.imgur.com/iJ3ODgF.mp4)
+
 
 <br>
 <h2>Desktop View</h2>
