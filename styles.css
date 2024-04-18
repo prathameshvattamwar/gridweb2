@@ -69,6 +69,10 @@ aside{
     line-height: 2em;
 }
 
+aside ul{
+    margin-left: 10px;
+}
+
 footer{
     grid-column: span 3;
     text-align: center;
